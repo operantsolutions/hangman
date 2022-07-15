@@ -1,0 +1,17 @@
+---
+:word: highlighted
+:chars:
+- h
+- i
+- g
+- l
+- t
+- e
+- d
+---
+:turns_remaining: 11
+:is_won: false
+:player: Chandler
+:correct_chars:
+- e
+- g

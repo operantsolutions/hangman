@@ -1,0 +1,7 @@
+---
+:turns_remaining: 14
+:is_won: false
+:player: Chandler
+:word_length: 6
+:correct_chars:
+- e
